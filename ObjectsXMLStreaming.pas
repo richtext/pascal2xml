@@ -11,7 +11,7 @@ uses
   XMLWrite,
   XMLRead,
   mmObjectToXML,
-  mmXMLTtoObject,
+  mmXMLToObject,
   Variants;
 
 type
