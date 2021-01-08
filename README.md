@@ -1,7 +1,7 @@
 # pascal2xml
 Set of classes to serialize pascal objects to/from xml. Compatible with Delphi and Lazarus.
 
-1. The project ObjectsXMLStreaming.lpi is an example of use this library. Just open it in Lazarus and run. There are no output. You need to debug main procedure to follow the steps to convert an object to a XML and a XML to an object:
+1. The project ObjectsXMLStreaming.lpi is an example of use this library. Just open it in Lazarus and run. There is no output. You need to debug main procedure to follow the steps to convert an object to a XML and a XML to an object:
 
 Some considerations:
 
